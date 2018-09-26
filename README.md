@@ -9,8 +9,8 @@ It is a Work-in-Progress!
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/infoverload/trafficdata-reactjs.git
-> cd trafficdata-reactjs
+> git clone https://github.com/infoverload/trafficincidents.git
+> cd trafficincidents
 > npm install
 > npm start
 ```
